@@ -1,1 +1,2 @@
-# class_03
+- 'uname' -
+- 'uname -a' -
